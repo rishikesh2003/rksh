@@ -1,0 +1,25 @@
+{
+  "name": "@rksh/hello-world",
+  "module": "index.ts",
+  "type": "module",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@types/bun": "^1.2.5"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "license": "MIT",
+  "description": "Just a hello world package built for testing",
+  "main": "index.ts",
+  "keywords": [],
+  "author": "Rishikesh S <rkesh2003@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rishikesh2003/rksh.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rishikesh2003/rksh/issues"
+  },
+  "homepage": "https://github.com/rishikesh2003/rksh#readme"
+}
